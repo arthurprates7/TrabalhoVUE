@@ -1,4 +1,4 @@
-# My First Vue.JS Application for College
+# Trabalho feito em VUE.JS trabalhando com Componentização de Elementos
 
 ## Project setup
 ```
